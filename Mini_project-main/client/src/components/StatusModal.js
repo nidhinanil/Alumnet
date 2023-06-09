@@ -176,7 +176,7 @@ const StatusModal = () => {
                             stream 
                             ? <i className="fas fa-camera" onClick={handleCapture} />
                             : <>
-                                <i className="fas fa-camera" onClick={handleStream} />
+                                <i className="" onClick={handleStream} />
 
                                 <div className="file_upload">
                                     <i className="fas fa-image" />
