@@ -1,7 +1,7 @@
 # Alumnet
 Social Media Application
 # MERN Stack 
-> MERN Stack Build  a social media app with MERN  + Redux  + Bootstrap 4
+> MERN Stack Build  a social media app with MERN  + Redux
 
 #
 ## Install dependencies for server 
